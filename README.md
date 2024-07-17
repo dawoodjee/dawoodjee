@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Isaac-Zimba-J
-- 👀 I’m into solving problems with code and stuff
-- 🌱 I’m currently diving a little into Machine learning and deep learning tasks
-- 💞️ I’m looking to collaborate on some of my projects
-- 📫 How to reach me zimbaisaacj2002@gmail.com
+- Hello there!
+- Thanks for landing here :)
+- I’m building different types of software (and soon hardware) around commerce, manufacturing, and AI
+- I love using frappeframework.com and have also always wanted to do native mobile apps
+- You can reach me on x.com/jawoodee. Just tweet directly if you cant inbox.
 
 <!---
-Isaac-Zimba-J/Isaac-Zimba-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dawoodjee/dawoodjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
