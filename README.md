@@ -1,5 +1,9 @@
-- Hello there!
-- Thanks for landing here :)
+Hello there!
+
+Thanks for landing here :)
+
+
+This is I'm here:
 - I’m building different types of software (and soon hardware) around commerce, manufacturing, and AI
 - I love using [Frappe Framework](https://frappeframework.com) and have also always wanted to do native mobile apps
 - You can reach me on [X](https://x.com/jawoodee). Just tweet directly if you can't inbox.
