@@ -1,6 +1,6 @@
-**hi there** 👋
+**hello** 👋
 
-- thanks for coming over!
+- im glad you came over 🥳
 - im interested in creating fun and useful sofware for productivity and commerce
 - i like to build with [frappe](https://frappeframework.com). notion. and ai
 - currently building a personal website and a couple of personal productivity apps
