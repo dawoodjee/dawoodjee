@@ -2,7 +2,6 @@
 
 - thanks for coming over!
 - im interested productivity, commerce, and ai tech ✨
-- i think to build the future we can just copy its tech and make it in the present
 - i like using [frappe](https://frappeframework.com) framework and considering adding react. then go native
 - currently building a personal & projects website
 - not nearly ready for show, but here it is <a href="adam.dawoodjee.com">adam.dawoodjee.com</a>
