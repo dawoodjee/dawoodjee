@@ -1,9 +1,9 @@
 **hi there** 👋
 
 - thanks for coming over!
-- im interested productivity, commerce, and ai tech ✨
-- i like using [frappe](https://frappeframework.com) framework and considering adding react. then go native
-- currently building a personal & projects website
+- im interested in creating fun and useful sofware for productivity and commerce
+- i like to build with [frappe](https://frappeframework.com). notion. and ai
+- currently building a personal website and a couple of personal productivity apps
 - not nearly ready for show, but here it is <a href="adam.dawoodjee.com">adam.dawoodjee.com</a>
 - you can also reach me on [X](https://x.com/jawoodee)
 
