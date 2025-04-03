@@ -1,9 +1,11 @@
 Hello there!
 
-- Thanks for landing here :)
-- I’m building different types of software (and soon hardware) around commerce, manufacturing, and AI
-- I love using [Frappe Framework](https://frappeframework.com) and have also always wanted to do native mobile apps
-- You can reach me on [X](https://x.com/jawoodee). Just tweet directly if you can't inbox.
+- thanks for coming over :)
+- im interested productivity, commerce, and ai tech ✨
+- i think we can build the future if copy its tech and make it in the present
+- i like using [frappe](https://frappeframework.com) framework and considering adding react
+- feel free to reach me on [X](https://x.com/jawoodee)
+- also building a personal/projects website <a href="adam.dawoodjee.com">adam.dawoodjee.com</a>
 
 <!---
 dawoodjee/dawoodjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
