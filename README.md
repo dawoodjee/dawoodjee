@@ -1,11 +1,9 @@
 **hello** 👋
 
-- im glad you came over 🥳
-- im interested in creating fun and useful sofware for productivity and commerce
-- i like to build with [frappe](https://frappeframework.com). notion. and ai
-- currently building a personal website and a couple of personal productivity apps
-- not nearly ready for show, but here it is <a href="adam.dawoodjee.com">adam.dawoodjee.com</a>
-- you can also reach me on [X](https://x.com/jawoodee)
+- im glad you came over
+- im currently building [personal os](/dawoodjee/os)
+- i use [frappe](https://frappeframework.com) for building apps, notion for notes, (mostly) grok ai as a building companion 
+- im on [X](https://x.com/daogadam)
 
 <!---
 dawoodjee/dawoodjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
