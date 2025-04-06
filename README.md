@@ -1,7 +1,7 @@
 **hello** 👋
 
 - im glad you came over
-- im currently building [personal os](/dawoodjee/os)
+- im currently building a personal [os](/os)
 - i use [frappe](https://frappeframework.com) for building apps, notion for notes, and (mostly) grok ai on on [X](https://x.com/daogadam)
 as a building companion
 <!---
