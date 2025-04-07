@@ -2,7 +2,7 @@
 
 - im glad you came over
 - im currently building a personal [os](https://github.com/dawoodjee/os)
-- i use [frappe](https://frappeframework.com) for building apps, notion for notes, and (mostly) grok ai on [X](https://x.com/daogadam)
+- i use [frappe](https://frappeframework.com) for building apps, notion for notes, and (mostly) grok ai on [X](https://twitter.com/ADawoodjee)
 as a building companion
 <!---
 dawoodjee/dawoodjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
